@@ -16,3 +16,4 @@ canva_hero_section_using_gemini_cli/
 │── index.html
 │── style.css
 └── README.md
+
