@@ -3,6 +3,7 @@
 A modern and visually appealing **Canva-style Hero Section**, built using **HTML + CSS** and inspired/generated with the **Gemini CLI**.  
 This project showcases a beautifully designed landing page hero section with smooth layout, bold typography, and a vibrant gradient background.
 
+![Hero Section](https://github.com/JaveriaArshadQureshi/canva_hero_section_using_gemini_cli/blob/main/Outputherosection.png)
 
 🎨 Features
 
